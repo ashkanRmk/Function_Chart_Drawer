@@ -1,4 +1,4 @@
-# Android Function Chart Drawer
+# Android Math Function Chart Drawer
 
 This Application will Drawing a Chart and Calculate Maximum, Minimum of a Math Expression Function with One Variable.
 ######This app Support this Features:
