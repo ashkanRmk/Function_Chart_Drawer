@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunctionCalculator-new.iml" filepath="$PROJECT_DIR$/FunctionCalculator-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appintro-4.1.0/appintro-4.1.0.iml" filepath="$PROJECT_DIR$/appintro-4.1.0/appintro-4.1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calligraphy-2.2.0/calligraphy-2.2.0.iml" filepath="$PROJECT_DIR$/calligraphy-2.2.0/calligraphy-2.2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphview-4.2.1/graphview-4.2.1.iml" filepath="$PROJECT_DIR$/graphview-4.2.1/graphview-4.2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxparser/mxparser.iml" filepath="$PROJECT_DIR$/mxparser/mxparser.iml" />
+    </modules>
+  </component>
+</project>

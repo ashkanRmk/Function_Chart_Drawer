@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">محاسبه گر توابع</string>
+    <string name="app_name1">نتیجه</string>
+    <string name="action_settings">درباره برنامه</string>
+    <string name="title_activity_about_">درباره برنامه</string>
+    <string name="large_text">
+        پروژه درس ساختمان داده ها
+        \n\n
+        برنامه محاسبه توابع تک متغیره
+        \n
+        پیدا کردن ماکزیمم و مینیمم توابع
+        \n
+        به همراه رسم نمودار
+        \n\n\n
+        استاد : مهندس بهزاد بختیاری
+    </string>
+</resources>

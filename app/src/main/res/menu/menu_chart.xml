@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.smn.functioncalculator.About_Activity">
+    <item
+        android:id="@+id/back"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:title="back"
+        android:icon="@android:drawable/arrow_up_float"
+        />
+</menu>
